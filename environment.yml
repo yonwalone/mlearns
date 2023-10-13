@@ -1,0 +1,5 @@
+name: py310-mlearns
+channels:
+  - defaults
+dependencies:
+  - python=3.10
